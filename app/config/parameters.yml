@@ -1,0 +1,1 @@
+{ parameters: { database_driver: pdo_mysql, database_host: localhost, database_port: null, database_name: myvibes, database_user: root, database_password: Oh5LCpc6, mailer_transport: smtp, mailer_host: 127.0.0.1, mailer_user: null, mailer_password: null, locale: en, secret: c95e58f1136d5de2ef8da3d5db53039f0e4a22fc, database_path: null } }
